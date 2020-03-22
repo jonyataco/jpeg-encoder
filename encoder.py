@@ -1,6 +1,5 @@
 # Program that will perform lossless JPEG compression.
-# Given a greyscale image, this program will perform in encoding and decoding
-# process of a given image. 
+# Given a greyscale image, this program will perform the encoding and decoding.
 
 from bitarray import bitarray
 
